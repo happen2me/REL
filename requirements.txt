@@ -6,5 +6,4 @@ konoha
 nltk
 pydantic
 segtok
-torch
 uvicorn
